@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://worldwideweeb.net/</id>
+  <id>http://localhost:4000/</id>
   <title>ᴡᴏʀʟᴅ ᴡɪᴅᴇ ᴡᴇᴇʙ</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-08-27T19:38:27+03:00</updated>
+  <updated>2024-08-27T19:46:25+03:00</updated>
   <author>
     <name>ali</name>
-    <uri>https://worldwideweeb.net/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://worldwideweeb.net/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="tr-TR"
-    href="https://worldwideweeb.net/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 ali </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>C ile Programlamaya Giriş</title>
-    <link href="https://worldwideweeb.net/posts/c-ile-programlamaya-giris/" rel="alternate" type="text/html" title="C ile Programlamaya Giriş" />
+    <link href="http://localhost:4000/posts/c-ile-programlamaya-giris/" rel="alternate" type="text/html" title="C ile Programlamaya Giriş" />
     <published>2023-09-21T20:02:00+03:00</published>
   
     <updated>2023-09-21T20:02:00+03:00</updated>
   
-    <id>https://worldwideweeb.net/posts/c-ile-programlamaya-giris/</id>
-    <content src="https://worldwideweeb.net/posts/c-ile-programlamaya-giris/" />
+    <id>http://localhost:4000/posts/c-ile-programlamaya-giris/</id>
+    <content src="http://localhost:4000/posts/c-ile-programlamaya-giris/" />
     <author>
       <name>ali</name>
     </author>
@@ -38,22 +38,20 @@
     
   
 
-  <summary>Giriş
-
-Bu yazı boyunca C dilinin ve genel anlamda programlamanın temel özelliklerinden bahsedeceğim. Açık ve anlaşılır bir yazı olmasını umuyorum. Yine de peşinen söylemem gerekir ki aşağıdaki yazdığım notları okuyup anladıktan sonra bir anda iyi şekilde kod yazmayı beklememelisiniz (nasıl ki Türkçe okuma yazmayı öğrendikten sonra edebiyatçı olamıyorsanız). Yazdığım bu yazı daha çok hızlandırıl...</summary>
+  <summary>C dilinde başlangıç seviyesi için notlar</summary>
 
   </entry>
 
   
   <entry>
     <title>Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme</title>
-    <link href="https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/" rel="alternate" type="text/html" title="Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme" />
+    <link href="http://localhost:4000/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/" rel="alternate" type="text/html" title="Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme" />
     <published>2023-03-19T16:46:00+03:00</published>
   
     <updated>2023-03-19T16:46:00+03:00</updated>
   
-    <id>https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/</id>
-    <content src="https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/" />
+    <id>http://localhost:4000/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/</id>
+    <content src="http://localhost:4000/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/" />
     <author>
       <name>ali</name>
     </author>
