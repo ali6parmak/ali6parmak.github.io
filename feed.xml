@@ -4,7 +4,7 @@
   <id>https://worldwideweeb.net/</id>
   <title>ᴡᴏʀʟᴅ ᴡɪᴅᴇ ᴡᴇᴇʙ</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-08-27T19:53:58+03:00</updated>
+  <updated>2024-10-29T14:25:15+03:00</updated>
   <author>
     <name>ali</name>
     <uri>https://worldwideweeb.net/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Haibane Renmei İnceleme</title>
+    <link href="https://worldwideweeb.net/posts/haibane-renmei-inceleme/" rel="alternate" type="text/html" title="Haibane Renmei İnceleme" />
+    <published>2024-10-29T04:25:00+03:00</published>
+  
+    <updated>2024-10-29T04:25:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/haibane-renmei-inceleme/</id>
+    <content src="https://worldwideweeb.net/posts/haibane-renmei-inceleme/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Weeb" />
+    
+    <category term="Anime" />
+    
+  
+
+  <summary>Haibane Renmei anime incelemesi</summary>
+
+  </entry>
 
   
   <entry>
