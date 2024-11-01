@@ -4,7 +4,7 @@
   <id>https://worldwideweeb.net/</id>
   <title>ᴡᴏʀʟᴅ ᴡɪᴅᴇ ᴡᴇᴇʙ</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-11-01T20:15:08+03:00</updated>
+  <updated>2024-11-01T20:16:41+03:00</updated>
   <author>
     <name>ali</name>
     <uri>https://worldwideweeb.net/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>deneme</title>
+    <link href="https://worldwideweeb.net/posts/deneme-post/" rel="alternate" type="text/html" title="deneme" />
+    <published>2024-11-01T12:45:00+03:00</published>
+  
+    <updated>2024-11-01T12:45:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/deneme-post/</id>
+    <content src="https://worldwideweeb.net/posts/deneme-post/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Yapay Zeka" />
+    
+    <category term="Natural Language Processing" />
+    
+  
+
+  <summary>deneme</summary>
+
+  </entry>
 
   
   <entry>
@@ -54,32 +80,6 @@
   
     <id>https://worldwideweeb.net/posts/natural-language-processinge-giris/</id>
     <content src="https://worldwideweeb.net/posts/natural-language-processinge-giris/" />
-    <author>
-      <name>ali</name>
-    </author>
-
-  
-    
-    <category term="Yapay Zeka" />
-    
-    <category term="Natural Language Processing" />
-    
-  
-
-  <summary>Natural Language Processing (Doğal Dil İşleme) notlarımı paylaşacağım serinin ilk yazısı</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Natural Language Processing'e Giriş</title>
-    <link href="https://worldwideweeb.net/posts/deneme-post/" rel="alternate" type="text/html" title="Natural Language Processing&amp;apos;e Giriş" />
-    <published>2024-11-01T12:00:00+03:00</published>
-  
-    <updated>2024-11-01T12:00:00+03:00</updated>
-  
-    <id>https://worldwideweeb.net/posts/deneme-post/</id>
-    <content src="https://worldwideweeb.net/posts/deneme-post/" />
     <author>
       <name>ali</name>
     </author>
