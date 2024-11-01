@@ -4,7 +4,7 @@
   <id>https://worldwideweeb.net/</id>
   <title>ᴡᴏʀʟᴅ ᴡɪᴅᴇ ᴡᴇᴇʙ</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-10-29T14:25:15+03:00</updated>
+  <updated>2024-11-01T19:07:40+03:00</updated>
   <author>
     <name>ali</name>
     <uri>https://worldwideweeb.net/</uri>
@@ -17,6 +17,58 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Basic Text Processing</title>
+    <link href="https://worldwideweeb.net/posts/basic-text-processing/" rel="alternate" type="text/html" title="Basic Text Processing" />
+    <published>2024-11-01T12:30:00+03:00</published>
+  
+    <updated>2024-11-01T12:30:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/basic-text-processing/</id>
+    <content src="https://worldwideweeb.net/posts/basic-text-processing/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Yapay Zeka" />
+    
+    <category term="Natural Language Processing" />
+    
+  
+
+  <summary>NLP&amp;#39;de veriyle çalışmaya başlayabilmek için uygulanabilecek bazı yöntemler</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Natural Language Processing'e Giriş</title>
+    <link href="https://worldwideweeb.net/posts/natural-language-processinge-giris/" rel="alternate" type="text/html" title="Natural Language Processing&amp;apos;e Giriş" />
+    <published>2024-11-01T12:00:00+03:00</published>
+  
+    <updated>2024-11-01T12:00:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/natural-language-processinge-giris/</id>
+    <content src="https://worldwideweeb.net/posts/natural-language-processinge-giris/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Yapay Zeka" />
+    
+    <category term="Natural Language Processing" />
+    
+  
+
+  <summary>Natural Language Processing (Doğal Dil İşleme) notlarımı paylaşacağım serinin ilk yazısı</summary>
+
+  </entry>
 
   
   <entry>
