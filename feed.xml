@@ -4,7 +4,7 @@
   <id>https://worldwideweeb.net/</id>
   <title>ᴡᴏʀʟᴅ ᴡɪᴅᴇ ᴡᴇᴇʙ</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-11-01T20:16:41+03:00</updated>
+  <updated>2024-11-01T20:19:43+03:00</updated>
   <author>
     <name>ali</name>
     <uri>https://worldwideweeb.net/</uri>
@@ -17,32 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>deneme</title>
-    <link href="https://worldwideweeb.net/posts/deneme-post/" rel="alternate" type="text/html" title="deneme" />
-    <published>2024-11-01T12:45:00+03:00</published>
-  
-    <updated>2024-11-01T12:45:00+03:00</updated>
-  
-    <id>https://worldwideweeb.net/posts/deneme-post/</id>
-    <content src="https://worldwideweeb.net/posts/deneme-post/" />
-    <author>
-      <name>ali</name>
-    </author>
-
-  
-    
-    <category term="Yapay Zeka" />
-    
-    <category term="Natural Language Processing" />
-    
-  
-
-  <summary>deneme</summary>
-
-  </entry>
 
   
   <entry>
@@ -143,6 +117,30 @@
   
 
   <summary>C dilinde başlangıç seviyesi için notlar</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme</title>
+    <link href="https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/" rel="alternate" type="text/html" title="Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme" />
+    <published>2023-03-19T16:46:00+03:00</published>
+  
+    <updated>2023-03-19T16:46:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/</id>
+    <content src="https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Yapay Zeka" />
+    
+  
+
+  <summary>Yapay zeka, makine ögrenmesi ve derin ögrenme kavramlarına giris seviyesinde bir bakıs.</summary>
 
   </entry>
 
