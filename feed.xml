@@ -4,7 +4,7 @@
   <id>https://worldwideweeb.net/</id>
   <title>ᴡᴏʀʟᴅ ᴡɪᴅᴇ ᴡᴇᴇʙ</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-11-01T20:04:42+03:00</updated>
+  <updated>2024-11-01T20:15:08+03:00</updated>
   <author>
     <name>ali</name>
     <uri>https://worldwideweeb.net/</uri>
@@ -72,6 +72,32 @@
 
   
   <entry>
+    <title>Natural Language Processing'e Giriş</title>
+    <link href="https://worldwideweeb.net/posts/deneme-post/" rel="alternate" type="text/html" title="Natural Language Processing&amp;apos;e Giriş" />
+    <published>2024-11-01T12:00:00+03:00</published>
+  
+    <updated>2024-11-01T12:00:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/deneme-post/</id>
+    <content src="https://worldwideweeb.net/posts/deneme-post/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Yapay Zeka" />
+    
+    <category term="Natural Language Processing" />
+    
+  
+
+  <summary>Natural Language Processing (Doğal Dil İşleme) notlarımı paylaşacağım serinin ilk yazısı</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Haibane Renmei İnceleme</title>
     <link href="https://worldwideweeb.net/posts/haibane-renmei-inceleme/" rel="alternate" type="text/html" title="Haibane Renmei İnceleme" />
     <published>2024-10-29T04:25:00+03:00</published>
@@ -117,30 +143,6 @@
   
 
   <summary>C dilinde başlangıç seviyesi için notlar</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme</title>
-    <link href="https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/" rel="alternate" type="text/html" title="Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme" />
-    <published>2023-03-19T16:46:00+03:00</published>
-  
-    <updated>2023-03-19T16:46:00+03:00</updated>
-  
-    <id>https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/</id>
-    <content src="https://worldwideweeb.net/posts/yapay-zeka-makine-ogrenmesi-ve-derin-ogrenme/" />
-    <author>
-      <name>ali</name>
-    </author>
-
-  
-    
-    <category term="Yapay Zeka" />
-    
-  
-
-  <summary>Yapay zeka, makine ögrenmesi ve derin ögrenme kavramlarına giris seviyesinde bir bakıs.</summary>
 
   </entry>
 
