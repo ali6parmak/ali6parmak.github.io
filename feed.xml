@@ -1,0 +1,149 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://worldwideweeb.net/</id>
+  <title>ᴡᴏʀʟᴅ ᴡɪᴅᴇ ᴡᴇᴇʙ</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-12-13T14:42:50+03:00</updated>
+  <author>
+    <name>ali</name>
+    <uri>https://worldwideweeb.net/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://worldwideweeb.net/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="tr-TR"
+    href="https://worldwideweeb.net/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 ali </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Neler Oluyor Dünyada?</title>
+    <link href="https://worldwideweeb.net/posts/neler-oluyor-dunyada/" rel="alternate" type="text/html" title="Neler Oluyor Dünyada?" />
+    <published>2024-12-13T01:24:00+03:00</published>
+  
+    <updated>2024-12-13T01:24:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/neler-oluyor-dunyada/</id>
+    <content src="https://worldwideweeb.net/posts/neler-oluyor-dunyada/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Genel" />
+    
+  
+
+  <summary>Ülkemiz ve dünya hakkında bazı tahminler &amp;amp; görüşler</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Basic Text Processing</title>
+    <link href="https://worldwideweeb.net/posts/basic-text-processing/" rel="alternate" type="text/html" title="Basic Text Processing" />
+    <published>2024-11-01T12:30:00+03:00</published>
+  
+    <updated>2024-11-01T12:30:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/basic-text-processing/</id>
+    <content src="https://worldwideweeb.net/posts/basic-text-processing/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Yapay Zeka" />
+    
+    <category term="Natural Language Processing" />
+    
+  
+
+  <summary>NLP&amp;#39;de veriyle çalışmaya başlayabilmek için uygulanabilecek bazı yöntemler</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Natural Language Processing'e Giriş</title>
+    <link href="https://worldwideweeb.net/posts/natural-language-processinge-giris/" rel="alternate" type="text/html" title="Natural Language Processing&amp;apos;e Giriş" />
+    <published>2024-11-01T12:00:00+03:00</published>
+  
+    <updated>2024-11-01T12:00:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/natural-language-processinge-giris/</id>
+    <content src="https://worldwideweeb.net/posts/natural-language-processinge-giris/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Yapay Zeka" />
+    
+    <category term="Natural Language Processing" />
+    
+  
+
+  <summary>Natural Language Processing (Doğal Dil İşleme) notlarımı paylaşacağım serinin ilk yazısı</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Haibane Renmei İnceleme</title>
+    <link href="https://worldwideweeb.net/posts/haibane-renmei-inceleme/" rel="alternate" type="text/html" title="Haibane Renmei İnceleme" />
+    <published>2024-10-29T04:25:00+03:00</published>
+  
+    <updated>2024-10-29T04:25:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/haibane-renmei-inceleme/</id>
+    <content src="https://worldwideweeb.net/posts/haibane-renmei-inceleme/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Weeb" />
+    
+    <category term="Anime" />
+    
+  
+
+  <summary>Haibane Renmei anime incelemesi</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>C ile Programlamaya Giriş</title>
+    <link href="https://worldwideweeb.net/posts/c-ile-programlamaya-giris/" rel="alternate" type="text/html" title="C ile Programlamaya Giriş" />
+    <published>2023-09-21T20:02:00+03:00</published>
+  
+    <updated>2023-09-21T20:02:00+03:00</updated>
+  
+    <id>https://worldwideweeb.net/posts/c-ile-programlamaya-giris/</id>
+    <content src="https://worldwideweeb.net/posts/c-ile-programlamaya-giris/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Programlama" />
+    
+  
+
+  <summary>C dilinde başlangıç seviyesi için notlar</summary>
+
+  </entry>
+
+</feed>
+
+
