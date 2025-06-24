@@ -1,0 +1,23 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == ' production
+  ' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+.social-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+#sidebar {
+  background-image: url('https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwI6dbw19qysxdOlqR6dNT_w'); /* Replace with your image path */
+  background-size: 250px 140px; /* Ensures the image covers the entire sidebar */
+  background-position: 2em 50em;
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+}
