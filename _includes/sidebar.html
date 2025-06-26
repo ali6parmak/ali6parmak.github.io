@@ -11,10 +11,7 @@
       {%- endif -%}
     </a>
 
-    <h1 class="site-title">
-      {% comment %} <a href="{{ '/' | relative_url }}">{{ site.title }}</a> {% endcomment %}
-      <a href="{{ '/' | relative_url }}" style="text-align:right">ali</a>
-    </h1>
+    <a class="site-title d-block" href="{{ '/' | relative_url }}">{{ "ali" }}</a>
     <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
   </header>
   <!-- .profile-wrapper -->
@@ -90,13 +87,11 @@
             rel="{{ link_types }}"
           {% endunless %}
         >
-          {% if entry.icon contains 'http' or entry.icon contains 'https' %}
-            <img src="{{ entry.icon }}" alt="{{ entry.type }}" class="social-icon">
-          {% elsif entry.icon contains '.png' or entry.icon contains '.jpg' or entry.icon contains '.svg' %}
-            <img src="{{ site.baseurl }}/assets/img/{{ entry.icon }}" alt="{{ entry.type }}" class="social-icon">
-          {% else %}
-            <i class="{{ entry.icon }}"></i>
-          {% endif %}
+          {% if entry.icon contains 'fa-' %}
+  <i class="{{ entry.icon }}"></i>
+{% else %}
+  <img src="{{ entry.icon }}" alt="{{ entry.type }} icon" style="height:1.2em;vertical-align:middle;display:inline;">
+{% endif %}
         </a>
       {% endif %}
     {% endfor %}
