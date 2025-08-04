@@ -44,9 +44,12 @@ Devamında karşınıza şu şekilde bir ekran gelecek:
 
 ![](https://lh3.googleusercontent.com/d/1BSwrVhM1PSSn0_u4wZwQY5fG83ReJHcK)
 
+_(Bi ihtimal doğrudan böyle bi ekran yerine dümdüz boş bi ekran gelirse yine sorun yok, boş yere yapıştırın kodu.)_
+
+
 Şimdiii burada yapmanız gereken ilk şey "URLs starting with" kısmında yazan "https://x.com/home" ifadesinden "home" kısmını silmek, yani şöyle olması gerekiyor: "https://x.com/". Çünkü diğer türlü yazacağımız kod tüm Twitter sayfalarını değil, sadece ana sayfayı etkiler.
 
-Sonrasında, 10 numaralı satırda gördüğünüz gibi "/* Insert code here... */" şeklinde bir yazı var. İşte aşağıda paylaşacağım kodu tam olarak buraya, yapıştırmanız gerekiyor.
+Sonrasında, 10 numaralı satırda gördüğünüz gibi "/* Insert code here... */" şeklinde bir yazı var. İşte aşağıda paylaşacağım kodu tam olarak buraya yapıştırmanız gerekiyor.
 
 Kodumuz şu, kod bloğunun sağ üstündeki işarete tıklayarak kopyalayabilirsiniz:
 

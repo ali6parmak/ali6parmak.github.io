@@ -24,4 +24,5 @@ package-lock.json
 
 # Misc
 _sass/vendors
+assets/lib/
 README.md
