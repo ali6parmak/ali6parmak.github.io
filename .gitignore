@@ -1,6 +1,7 @@
 # Bundler cache
 .bundle
 vendor
+Gemfile.lock
 
 # Jekyll cache
 .jekyll-cache
@@ -16,10 +17,11 @@ package-lock.json
 
 # IDE configurations
 .idea
-.vscode
+.vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
+!.vscode/tasks.json
 
 # Misc
-_site/
+_sass/vendors
 README.md
