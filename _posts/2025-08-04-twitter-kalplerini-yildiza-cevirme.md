@@ -138,7 +138,7 @@ Kodun başındaki şu kısımda:
 }
 ```
 
-"color" ve "fill" ifadelerini göreceksiniz. Buradaki renkler yıldızın yanındaki sayının rengini ayarlamak için, farklı bi renk isterseniz ilgili rengin hex kodunu girebilirsiniz, Google'dan bakabilirsiniz buna.
+`color` ve `fill` ifadelerini göreceksiniz. Buradaki renkler yıldızın yanındaki sayının rengini ayarlamak için, farklı bi renk isterseniz ilgili rengin hex kodunu girebilirsiniz, Google'dan bakabilirsiniz buna.
 
 Tweeti favlarken yıldıza tıklandığı anda minik bi patlama efekti gerçekleşiyor, yıldız önce büyüyüp sonra normal haline dönüyor. Bu olayın gerçekleştiği kısım kodun şurası:
 
@@ -159,7 +159,7 @@ Tweeti favlarken yıldıza tıklandığı anda minik bi patlama efekti gerçekle
 }
 ```
 
-0% ve 100% ifadeleri olayın başlangıcı ve bitişi. En başta 1 ölçekle başlayıp sonra yine 1 ölçekle sona eriyor. Yıldızın patlarken ne kadar büyüdüğünü ayarlamak için örneğin aradaki scale(1.5) değerini scale(5) falan yapabilirsiniz, ya da çok daha küçük hale de getirebilirsiniz, vs.
+0% ve 100% ifadeleri olayın başlangıcı ve bitişi. En başta 1 ölçekle başlayıp sonra yine 1 ölçekle sona eriyor. Yıldızın patlarken ne kadar büyüdüğünü ayarlamak için örneğin aradaki `scale(1.5)` değerini `scale(5)` falan yapabilirsiniz, ya da çok daha küçük hale de getirebilirsiniz, vs.
 
 
 Kodun şu kısmında:
@@ -176,9 +176,11 @@ Kodun şu kısmında:
 }
 ```
 
-"width" ve "height" değerlerini göreceksiniz. Bu değerler tweet favlandıktan sonra ortaya çıkan yıldızın büyüklüğü için. Yukarıda scale değerleri vardı ya, işte burada aslında scale(1)'i, yani orijinal büyüklük değerini ayarlıyoruz. ben 20-20 yaptım ama kafanıza göre değiştirebilirsiniz.
+`width` ve `height` değerlerini göreceksiniz. Bu değerler tweet favlandıktan sonra ortaya çıkan yıldızın büyüklüğü için. Yukarıda scale değerleri vardı ya, işte burada aslında `scale(1)`'i, yani orijinal büyüklük değerini ayarlıyoruz. ben 20-20 yaptım ama kafanıza göre değiştirebilirsiniz.
 
-Yine aynı blokta, "animation: star-pop 0.4s" şeklinde bi kısım var. Burada yıldızın patlama animasyonunun süresini belirliyoruz. Daha yavaş bi patlama efekti için 0.4s'lik değeri daha yükseğe çekebilirsiniz, ya da daha hızlı için düşürebilirsiniz.
+Kodun şu anki haliyle yıldız altın renginde oluşuyor. Fakat bunu başka bi renge çevirmek isterseniz blok içerisindeki `background: url(...)` kısmına bakmanız gerekiyor. Buradaki `url` içerisinde `fill="%23ffac33"` ve `stroke="%23ffac33"` şeklinde ifadeler göreceksiniz. İşte yıldıza rengini verdiğimiz kısım burası. Buradaki değerlerde `%23` kısmına dokunmuyorsunuz, sonrasındaki 6 karakteri değiştirmeniz gerekiyor, bu 6 karakter yine ilgili rengin hex kodu. Bir örnek olarak, bu değerleri şöyle değiştirirseniz: `fill="%231d9bf2" stroke="%231d9bf2"`, mavi bir yıldız elde edersiniz. Tabii böyle bi değişiklik yaptıktan sonra yıldızın yanındaki yazının rengini de değiştirmek isteyebilirsiniz, onu da yukarıda yazdım zaten.
+
+Yine aynı blokta, `animation: star-pop 0.4s` şeklinde bi kısım var. Burada yıldızın patlama animasyonunun süresini belirliyoruz. Daha yavaş bi patlama efekti için 0.4s'lik değeri daha yükseğe çekebilirsiniz, ya da daha hızlı için düşürebilirsiniz.
 
 Benzer şekilde, şu kısımdaysa:
 
