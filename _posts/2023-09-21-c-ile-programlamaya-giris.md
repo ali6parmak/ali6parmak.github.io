@@ -32,9 +32,9 @@ Daha önceden farklı programlama dilleri duymuş olanlar da olabilir aranızda.
 
 C’ye başlamak için kitap önerileri:
 
-<https://www.palmeyayinevi.com/programlamayi-c-Ile-ogrenIyorum>
+_[Programlamayı C ile Öğreniyorum - Palme](https://www.palmeyayinevi.com/programlamayi-c-Ile-ogrenIyorum)_
 
-<https://docs.google.com/file/d/0B1iD94fRL_ITVkJHSkdFQWQ0THc/v>
+_[C How to Program - Deitel \[Türkçe\]](https://oku.ozturkibrahim.com/clab/booksTR/C_ve_C++_Programlama__Deitel.pdf)_
 
 Bu kitapların ikisini de kendim kullandım. Palme’nin kitabını özellikle satın almanızı tavsiye ederim, elinizin altında durur içerisinde güzel sorular var çözer ilerlersiniz.
 
